@@ -16,3 +16,6 @@ Refer [here](https://www.geeksforgeeks.org/understanding-logistic-regression/) f
 ## Dataset
 A single [`train.csv`](https://www.kaggle.com/c/fake-news/data) dataset obtained from [Kaggle](https://wwww.kaggle.com) is split into 80%-20%
 for training and testing the model.
+
+## Testing
+A live version of the [`main.ipynb`](https://github.com/rahulb813/veracious-prophecy/blob/main/main.ipynb) is uploaded at [Google Drive](https://drive.google.com/drive/folders/1Dc3zftve6CMrDUYRBGGlmaVQ3w-pfdku?usp=sharing).
